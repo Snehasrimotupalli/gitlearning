@@ -8,4 +8,3 @@ github
 
 snehasrimotupalli
 
-my attemot to get to know pull from master branch
