@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 github
 
 snehasrimotupalli
+
+my attemot to get to know pull from master branch
